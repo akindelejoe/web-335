@@ -1,8 +1,9 @@
-""" 
-    Title: output_ex1.py
-    Author: Professor Krasso
-    Date: 11 August 2022
-    Description: Example file for outputting values.
+"""
+Title: output_ex1.py
+Author: Joseph Akindele
+Date: 06-08-2025
+Description: This program prints an inspirational quote using the print function
 """
 
-print('Welcome to WEB 335 - Introduction to NoSQL')
+print('"Learn to make your own decisions. Even if you fail, pick yourself up and learn from it."')
+print('- Arinola F. Akindele')
