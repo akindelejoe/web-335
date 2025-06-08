@@ -1,0 +1,23 @@
+{
+    "_id": "cust001",
+    "firstName": "Kola",
+    "lastName": "Blade",
+    "burgers": [
+      {
+        "_id": "burger001",
+        "burgerName": "BBQ Bacon Burger",
+        "price": 7.99
+      },
+      {
+        "_id": "burger002",
+        "burgerName": "Mushroom Swiss Burger",
+        "price": 8.49
+      },
+      {
+        "_id": "burger003",
+        "burgerName": "Spicy Chicken Burger",
+        "price": 9.99
+      }
+    ]
+  }
+  
