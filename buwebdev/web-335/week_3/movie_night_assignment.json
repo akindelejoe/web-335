@@ -1,0 +1,29 @@
+{
+  "name": "Joseph Ali",
+  "email": "josephAli.com",
+  "favoriteGenres": ["Sci-Fi", "Comedy"],
+  "watchlist": [
+    {
+      "movieId": "m001",
+      "title": "Deep blue sea"
+    },
+    {
+      "movieId": "m002",
+      "title": "The Matrix"
+    }
+  ],
+  "reviews": [
+    {
+      "movieId": "m001",
+      "title": "Deep blue sea",
+      "rating": 5,
+      "review": "Amazing movie! Victor is a genius."
+    },
+    {
+      "movieId": "m002",
+      "title": "The Matrix",
+      "rating": 4,
+      "review": "Revolutionary visuals and story."
+    }
+  ]
+}
