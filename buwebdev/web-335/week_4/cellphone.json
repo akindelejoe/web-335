@@ -1,0 +1,24 @@
+{
+    "customer": {
+      "firstName": "Joseph",
+      "lastName": "Akindele",
+      "phoneNumber": "901-455-0092",
+      "email": "joseph.akindele@yahoo.com"
+    },
+    "device": {
+      "brand": "iphone",
+      "model": "16 pro",
+      "batteryLevel": 18
+    },
+    "chargingSession": {
+      "startTime": "2025-06-22T14:00:00Z",
+      "endTime": "2025-06-22T14:45:00Z",
+      "kWhUsed": 0.65,
+      "cost": 1.75
+    },
+    "location": {
+      "stationId": "MEM001",
+      "address": "456 Union Avenue, Memphis, TN"
+    }
+  }
+  
